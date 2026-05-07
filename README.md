@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Himanshu Yadav</h1>
+<h1 align="center">Hi 👋, I'm Himanshu</h1>
 
 <h3 align="center">
 Math & Computing Student at IIT Bhilai | Machine Learning • Graph Neural Networks • CUDA • AI Research
