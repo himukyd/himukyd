@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Math+%26+Computing+Student+at+IIT+Bhilai;Machine+Learning+%7C+Graph+Neural+Networks;CUDA+%7C+GPU+Programming+%7C+AI+Research;Building+Scalable+AI+and+Parallel+Systems" />
-
-</div>
-
 <h3 align="center">
 Math & Computing Student at IIT Bhilai | Machine Learning • Graph Neural Networks • CUDA • AI Research
 </h3>
@@ -14,16 +8,12 @@ Math & Computing Student at IIT Bhilai | Machine Learning • Graph Neural Netwo
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 - 🎓 Master's student in Mathematics & Computing at IIT Bhilai
 - 🔬 Interested in Machine Learning, Graph Neural Networks, CUDA, and Parallel Computing
 - 📚 Currently exploring NLP, GPU Programming, and High-Performance AI Systems
 - 💻 Passionate about research, optimization, and scalable computing
 - 🧠 Strong interest in mathematics-driven AI and graph learning
 - 🌱 Continuously learning advanced AI systems and GPU acceleration
-
-<br>
 
 ---
 
@@ -39,35 +29,33 @@ Math & Computing Student at IIT Bhilai | Machine Learning • Graph Neural Netwo
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### Languages
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css" />
 </p>
 
-### 🤖 Machine Learning & Research
+### Machine Learning & Research
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
-### 🧰 Tools & Technologies
+### Tools & Technologies
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,latex" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
 
-  <img height="170" 
-       src="https://github-readme-stats.vercel.app/api?username=himukyd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=himukyd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 
-  <img height="170" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=himukyd&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=himukyd&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
@@ -77,8 +65,7 @@ Math & Computing Student at IIT Bhilai | Machine Learning • Graph Neural Netwo
 
 <p align="center">
 
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=himukyd&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himukyd&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -89,13 +76,13 @@ Math & Computing Student at IIT Bhilai | Machine Learning • Graph Neural Netwo
 <p align="left">
 
 <a href="https://www.linkedin.com/in/himanshusiniitbh/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" width="45" />
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://www.kaggle.com/himanshukyd" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="45" width="45" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="40" width="40" />
 </a>
 
 </p>
@@ -115,7 +102,7 @@ Math & Computing Student at IIT Bhilai | Machine Learning • Graph Neural Netwo
 
 ## ⚡ Fun Fact
 
-> I enjoy combining mathematics with AI systems to build efficient and scalable solutions.
+I enjoy combining mathematics with AI systems to build efficient and scalable solutions.
 
 ---
 
