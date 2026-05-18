@@ -65,11 +65,11 @@ Math & Computing Student at IIT Bhilai | Machine Learning • Graph Neural Netwo
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himukyd&layout=compact&theme=tokyonight&hide_border=true"/>
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=himukyd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" 
+/>
 
 </p>
-
----
 
 ## 🌐 Connect With Me
 
